@@ -5,7 +5,7 @@ h1, h2{
 color:white
 }
 body{
-background-image: url("/imagenes/HarryPotter.jpg");
+background-image: url("./imagenes/HarryPotter.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 }
